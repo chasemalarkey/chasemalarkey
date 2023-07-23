@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chasemalarkey
 - 👀 I’m interested in coding, collaboration, soccer (football), and gaming!
 - 🌱 I’m currently learning Python, JavaScript, and Java!
-- 💞️ I’m looking to collaborate on Web Development projects involving frameworks such as Spring Boot, and possible some game development projects as well!
+- 💞️ I’m looking to collaborate on Web Development projects involving frameworks such as Spring Boot, and possibly some game development projects as well!
 - 📫 How to reach me: My linked in is on my GitHub! You can always contact me there or as for my email!
 
 Software Engineer experienced in Python (Flask, Jinja), JavaScript, Java (Spring Boot), HTML, CSS, and MySQL.
