@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development projects involving frameworks such as Flask, and possibly some game development projects as well!
 - 📫 How to reach me: My linked in is on my GitHub! You can always contact me there or ask for my email!
 
-Software Engineer experienced in Python (Flask, Jinja), JavaScript, Java (Spring Boot), HTML, CSS, and MySQL.
+Software Engineer experienced in Python (Flask, Jinja, MySQL, Tkinter), JavaScript, Java (Spring Boot), HTML, CSS, and MySQL.
 I have experience with the following Integrated Development Environments: Virtual Studio Code, PyCharm, and Spring Tools Suite.
 My favorite coding language is Python! I am open to learn more tools and technologies.
 I thoroughly enjoy working in the tech field. 
